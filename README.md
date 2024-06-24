@@ -1,5 +1,7 @@
 ## Hi there 👋
+I am currently working on building a professional portfolio in order to demonstrate my skill set.
 
+Projects that I am currently working on include implementing Proxmox, OpenCTI, Security Onion, MISP, Snort and Wazuh to test cyber security concepts.
 <!--
 **marcdub11/marcdub11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
