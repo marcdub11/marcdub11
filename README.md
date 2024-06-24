@@ -1,7 +1,14 @@
 ## Hi there 👋
 I am currently working on building a professional portfolio in order to demonstrate my skill set.
 
-Projects that I am currently working on include implementing Proxmox, OpenCTI, Security Onion, MISP, Snort and Wazuh to test cyber security concepts.
+Projects that I am currently working on include implementing Proxmox, OPNSense, Wazuh, OpenCTI, Security Onion, and Snort, to test cyber security concepts.
+
+Proxmox serves as the host for all of my virtual machines.
+OPNSense is the software I am using for my network firewall.
+Wazuh will be the EDR I use to protect endpoints.
+OpenCTI will be my cyber threat intelligence platform.
+Security Onion will serve as my SEIM.
+Snort will serve as an intrusion detection system.
 <!--
 **marcdub11/marcdub11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
