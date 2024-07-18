@@ -7,8 +7,6 @@ Proxmox serves as the host for all of my virtual machines.
 OPNSense is the software I am using for my network firewall.  
 Wazuh will be the EDR I use to protect endpoints.  
 OpenCTI will be my cyber threat intelligence platform.  
-Security Onion will serve as my SEIM.  
-Snort will serve as an intrusion detection system.
 <!--
 **marcdub11/marcdub11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
